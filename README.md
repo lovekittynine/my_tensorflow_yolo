@@ -14,3 +14,6 @@ Modify configuration in `yolo/config.py`
 ![some dectect result to display](https://github.com/lovekittynine/my_tensorflow_yolo/blob/master/2.jpg)
 ![some dectect result to display](https://github.com/lovekittynine/my_tensorflow_yolo/blob/master/3.jpg)
 
+# mAP Test
+![mAP show](https://github.com/lovekittynine/my_tensorflow_yolo/blob/master/map.png)
+
