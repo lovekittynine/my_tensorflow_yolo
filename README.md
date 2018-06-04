@@ -10,3 +10,5 @@ Modify configuration in `yolo/config.py`
 1. Tensorflow
 
 2. OpenCV
+
+https://raw.githubusercontent.com/lovekittynine/my_tensorflow_yolo/master/2.jpg
