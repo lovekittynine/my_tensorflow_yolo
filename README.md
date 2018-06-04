@@ -11,4 +11,4 @@ Modify configuration in `yolo/config.py`
 
 2. OpenCV
 
-
+![some dectect result to display](https://github.com/lovekittynine/my_tensorflow_yolo/blob/master/2.jpg)
